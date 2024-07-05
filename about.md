@@ -1,5 +1,5 @@
 ---
-title: О нас
+title: О студии
 layout: page
 description: О нас
 bodyClass: page-about
@@ -11,7 +11,7 @@ crimen habet Priamum nec.
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+# Главное
 
 Financial accounting and financial reporting are often used as synonyms.
 
