@@ -7,11 +7,11 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
+  desktop_height: "220px"
   desktop_width: "120px"
 
 home: 
-  limit_services: 6
+  limit_services: 3
 
 collections:
   services:
@@ -33,7 +33,7 @@ defaults:
       layout: "team"
 
 sass:
-  style: compressed # possible values: nested expanded compact compressed
+  style: expanded  # possible values: nested expanded compact compressed
 
 plugins:
   - jekyll-environment-variables
