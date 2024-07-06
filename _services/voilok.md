@@ -1,13 +1,10 @@
 ---
-title: "Tax Preperation"
-date: 2019-04-18T12:33:46+10:00
-weight: 6
+title: "Войлок"
+date: 2018-12-28T15:14:39+10:00
+weight: 4
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Сухое и мокрое валяние войлока. Игрушка. Поделка. Картина.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
