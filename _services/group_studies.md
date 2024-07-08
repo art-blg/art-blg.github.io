@@ -6,7 +6,7 @@ weight: 1
 
 Групповые занятия проходят еженедельно в одно и то же время.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/group1.jpg)
 
 ## Количество участников
 
