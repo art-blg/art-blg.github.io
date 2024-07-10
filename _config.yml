@@ -49,3 +49,15 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+carousels:
+  - images: 
+    - image: /images/photo_1.jpg
+    - image: /images/photo_2.jpg
+    - image: /images/photo_3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image5.jpg
+    - image: /uploads/slider/image6.jpg
+    - image: /uploads/slider/image7.jpg
+    - image: /uploads/slider/image8.jpg

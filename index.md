@@ -2,7 +2,7 @@
 title: Творческая студия Рыжик
 layout: home
 description: Творческая студия Рыжик в городе Благовещенск
-intro_image: "images/main.jpg"
+intro_image: "images/illustrations/main.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
