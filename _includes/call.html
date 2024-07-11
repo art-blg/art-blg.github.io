@@ -1,10 +1,16 @@
 <div class="call">
   <div class="call-box-top">
+    {% if site.data.contact.adress" %}
+    <p>
+      <div class="call-email"><strong>Мы находимся: </strong> {{ site.data.contact.adress }}
+         </div>
+    </p>
+    {% endif %}
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Звоните: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
     <p>
-      <div class="call-email"><strong>Лучше в ватсап: </strong>
+      <div class="call-email"><strong>Пишите в ватсап: </strong>
       <a href="https://wa.me/+79243487844">
         Нажми чтобы написать
       </a>
